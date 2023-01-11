@@ -1,0 +1,396 @@
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 22 16"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 22 16 Roof Board Insulation",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2020-02-02T00:00:00Z",
+  "starts": "2018-03-07T06:49:50Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_EnergyGuard_NH_Barrier_Polyiso_Insulation_1520448572-059813cc-23f1-4242-b373-23698679503d.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "FC1C62E799273F9516421185724E569B",
+ "inventory-type": "Basic",
+ "LEEDv4": "Pre-checked for LEED v4 Option 1",
+ "modified-date": "2018-03-07T06:49:50Z",
+ "name": "EnergyGuard NH Barrier Polyiso Insulation",
+ "product-id": "5469",
+ "product-type": [
+  "Roof Board Insulation"
+ ],
+ "sku": "energyguard-nh-barrier-polyiso-insulation-1",
+ "subcategory": [
+  "Building Insulation"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "EnergyGuard NH Barrier Polyiso Insulation/GAF/2018-03-07"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 13 54"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 13 54 Thermoplastic Sheet Waterproofing",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2021-03-06T00:00:00Z",
+  "starts": "2018-03-13T08:04:55Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_EverGuard_CleanWeld_Conditioner_1511896658-6abcc4be-3548-4033-8b4f-c2c092e1d0da.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "B91F274017DEC38BBADF9DF4BFA63710",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2018-03-13T08:04:55Z",
+ "name": "EverGuard CleanWeld Conditioner",
+ "product-id": "5441",
+ "product-type": [
+  "Thermoplastic Sheet Waterproofing"
+ ],
+ "sku": "everguard-cleanweld-conditioner-1",
+ "subcategory": [
+  "Waterproofing"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "EverGuard CleanWeld Conditioner/GAF/2018-03-06"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 13 54"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 13 54 Thermoplastic Sheet Waterproofing",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2021-03-06T00:00:00Z",
+  "starts": "2018-03-05T12:04:27Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_EverGuard_CleanWeld_Conditioner_1520294652-f2253e04-b201-4727-8a2f-a6528a65102c.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "8287166B2FCC9FF26E599B2087155157",
+ "inventory-type": "Basic",
+ "LEEDv4": "Pre-checked for LEED v4 Option 1",
+ "modified-date": "2018-03-05T12:04:27Z",
+ "name": "EverGuard CleanWeld Conditioner",
+ "product-id": "5443",
+ "product-type": [
+  "Thermoplastic Sheet Waterproofing"
+ ],
+ "sku": "everguard-cleanweld-conditioner-2",
+ "subcategory": [
+  "Waterproofing"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "EverGuard CleanWeld Conditioner/GAF/2018-03-06"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 54 00"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 54 00 Thermoplastic Membrane Roofing",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2021-03-27T00:00:00Z",
+  "starts": "2018-03-27T08:58:44Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_Everguard_Extreme_TPO_1522180718-7ce458f7-09c8-4095-99e3-181838dde596.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "D38CF9CCFFAD5205FFE057BCC88748DB",
+ "inventory-type": "Basic",
+ "LEEDv4": "Pre-checked for LEED v4 Option 1",
+ "modified-date": "2018-03-27T08:58:44Z",
+ "name": "Everguard Extreme TPO",
+ "product-id": "5627",
+ "product-type": [
+  "Thermoplastic Membrane Roofing"
+ ],
+ "sku": "everguard-extreme-tpo-1",
+ "subcategory": [
+  "Roof Products"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Everguard Extreme TPO/GAF/2018-03-27"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 54 00"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 54 00 Thermoplastic Membrane Roofing",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2020-12-06T00:00:00Z",
+  "starts": "2018-03-05T12:11:16Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_EverGuard_TPO_50_80_mil_1520294930-54f60dab-d287-4485-9723-71c261648c24.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "24F38324DC9EB1EAE561BBB562A02793",
+ "inventory-type": "Basic",
+ "LEEDv4": "Pre-checked for LEED v4 Option 1",
+ "modified-date": "2018-03-05T12:11:16Z",
+ "name": "EverGuard TPO 50-80 mil",
+ "product-id": "5448",
+ "product-type": [
+  "Thermoplastic Membrane Roofing"
+ ],
+ "sku": "everguard-tpo-50-80-mil",
+ "subcategory": [
+  "Roof Products"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "EverGuard TPO 50-80 mil/GAF/2018-03-06"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 54 00"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 54 00 Thermoplastic Membrane Roofing",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2019-11-07T00:00:00Z",
+  "starts": "2018-03-05T11:52:50Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_Everguard_TPO_Seam_Cleaner_1520290358-0503f7de-4d2a-4ef5-9a6d-dc2d14b010e7.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "95F958C0DCBD9EE9D464EFAA619308E6",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2018-03-05T11:52:50Z",
+ "name": "Everguard® TPO Seam Cleaner",
+ "product-id": "5440",
+ "product-type": [
+  "Thermoplastic Membrane Roofing"
+ ],
+ "sku": "everguard-tpo-seam-cleaner-1",
+ "subcategory": [
+  "Roof Products"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Everguard® TPO Seam Cleaner/GAF/2018-03-05"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 51 13"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 51 13 Built-Up Asphalt Roofing",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2020-12-06T00:00:00Z",
+  "starts": "2018-03-05T12:08:15Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_GAFGLAS_EnergyCap_1520294888-6324de2f-ce58-4ec3-b802-a34b292c9953.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "0EB6EDD41B81D9AC4AC7B3D6BAED09F6",
+ "inventory-type": "Basic",
+ "LEEDv4": "Pre-checked for LEED v4 Option 1",
+ "modified-date": "2018-03-05T12:08:15Z",
+ "name": "GAFGLAS® EnergyCap™",
+ "product-id": "5447",
+ "product-type": [
+  "Built-Up Asphalt Roofing"
+ ],
+ "sku": "gafglas-energycap",
+ "subcategory": [
+  "Roof Products"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "GAFGLAS® EnergyCap™/GAF/2018-03-06"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 31 13"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 31 13 Asphalt Shingles",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2023-04-06T00:00:00Z",
+  "starts": "2020-04-06T01:40:43Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_Glenwood_Shingles-901028e9-bfb3-429c-ae1f-9be081799286.pdf",
+  "version": "2.1.1"
+ },
+ "hpd-checksum": "CBEED2C24430B51EE6EE79D24D66C8FB",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2020-04-06T01:40:43Z",
+ "name": "Glenwood Shingles",
+ "product-id": "10331",
+ "product-type": [
+  "Asphalt Shingles"
+ ],
+ "sku": "glenwood-shingles",
+ "subcategory": [
+  "Roof Products"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Glenwood Shingles/GAF/2020-04-06"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 14 00"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 14 00 Fluid-Applied Waterproofing",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2022-11-20T00:00:00Z",
+  "starts": "2019-11-20T14:43:38Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_Hydrostop_PremiumCoat_Finish_Coat-701dfbb8-f7b5-4a31-9350-cb7c0156e2a8.pdf",
+  "version": "2.1.1"
+ },
+ "hpd-checksum": "70E832A750803A0BEB78ECF89C4E9923",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2019-11-20T14:43:38Z",
+ "name": "Hydrostop PremiumCoat Finish Coat",
+ "product-id": "9564",
+ "product-type": [
+  "Fluid-Applied Waterproofing"
+ ],
+ "sku": "hydrostop-premiumcoat-finish-coat",
+ "subcategory": [
+  "Waterproofing"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Hydrostop PremiumCoat Finish Coat/GAF/2019-11-20"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 13 52"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 13 52 Modified Bituminous Sheet Waterproofing",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2020-12-13T00:00:00Z",
+  "starts": "2018-03-07T05:43:14Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_Ruberoid_MOP_Granule_1520444587-e2cfd89f-24b2-4284-8042-b108eca62ea6.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "CAA3EFF85C507802CC107FEB3E4DCEF6",
+ "inventory-type": "Basic",
+ "LEEDv4": "Pre-checked for LEED v4 Option 1",
+ "modified-date": "2018-03-07T05:43:14Z",
+ "name": "Ruberoid® MOP Granule",
+ "product-id": "5468",
+ "product-type": [
+  "Modified Bituminous Sheet Waterproofing"
+ ],
+ "sku": "ruberoid-mop-granule-1",
+ "subcategory": [
+  "Waterproofing"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Ruberoid® MOP Granule/GAF/2018-03-07"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 31 13"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 31 13 Asphalt Shingles",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2022-11-11T00:00:00Z",
+  "starts": "2019-11-11T09:58:06Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_Timberline_Cool_Series-58308513-0210-415c-9b1b-99bb2cc314d5.pdf",
+  "version": "2.1.1"
+ },
+ "hpd-checksum": "AF7E51770C7CA328272FEC140FB4FF41",
+ "inventory-type": "Basic",
+ "LEEDv4": "Pre-checked for LEED v4 Option 1",
+ "modified-date": "2019-11-11T09:58:06Z",
+ "name": "Timberline Cool Series",
+ "product-id": "9554",
+ "product-type": [
+  "Asphalt Shingles"
+ ],
+ "sku": "timberline-cool-series",
+ "subcategory": [
+  "Roof Products"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Timberline Cool Series/GAF/2019-11-11"
+}
+{
+ "brand-name": "GAF",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 31 13"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 31 13 Asphalt Shingles",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2022-12-06T00:00:00Z",
+  "starts": "2019-12-18T09:18:24Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_112_Timberline_HD_Reflector_Series-cc19faad-a851-4ff2-95da-bf2b516c184c.pdf",
+  "version": "2.1.1"
+ },
+ "hpd-checksum": "F90BD0FBF64A258AF985D71F6EE1103A",
+ "inventory-type": "Basic",
+ "LEEDv4": "Pre-checked for LEED v4 Option 1",
+ "modified-date": "2019-12-18T09:18:24Z",
+ "name": "Timberline HD Reflector Series",
+ "product-id": "9677",
+ "product-type": [
+  "Asphalt Shingles"
+ ],
+ "sku": "timberline-hd-reflector-series",
+ "subcategory": [
+  "Roof Products"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Timberline HD Reflector Series/GAF/2019-12-06"
+}
