@@ -1,0 +1,260 @@
+{
+ "brand-name": "AVA",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "06 53 13"
+ ],
+ "csi-division": "06 Wood, Plastics, and Composites",
+ "csi-section": "06 53 13 Solid Plastic Decking",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2023-03-12T00:00:00Z",
+  "starts": "2020-03-23T07:34:17Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_151_AVA_Sheet_Vinyl_SV_-498cf864-6b0b-4524-b7fd-e72f987a2035.pdf",
+  "version": "2.1.1"
+ },
+ "hpd-checksum": "3F4DDD89A7F2409DA407886753A22718",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2020-03-23T07:34:17Z",
+ "name": "AVA Sheet Vinyl SV",
+ "product-id": "10180",
+ "product-type": [
+  "Solid Plastic Decking"
+ ],
+ "sku": "ava-sheet-vinyl-sv",
+ "subcategory": [
+  "Composite Decking and Paneling"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "AVA Sheet Vinyl SV/Novalis/2020-03-12"
+}
+{
+ "brand-name": "AVA",
+ "category": [
+  "Building Finishes"
+ ],
+ "csi": [
+  "09 65 00"
+ ],
+ "csi-division": "09 Finishes",
+ "csi-section": "09 65 00 Resilient Flooring",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2025-05-12T00:00:00Z",
+  "id": "29216",
+  "starts": "2022-07-19T03:42:10Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-151_KR_Sheet_Vinyl_SV_-9b167f6e-61dd-4a63-9747-57d4bd28c51a.pdf",
+  "version": "2.3"
+ },
+ "hpd-checksum": "A003466BEC07C6D25EA76B5BCF92F2CE",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2022-07-19T03:42:10Z",
+ "name": "KR Sheet Vinyl SV",
+ "product-id": "32549",
+ "product-type": [
+  "Resilient Flooring"
+ ],
+ "sku": "kr-sheet-vinyl-sv",
+ "subcategory": [
+  "Floor Coverings (Non-Carpet)"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "KR Sheet Vinyl SV/Novalis/2022-07-19"
+}
+{
+ "brand-name": "AVA",
+ "category": [
+  "Building Finishes"
+ ],
+ "csi": [
+  "09 65 00"
+ ],
+ "csi-division": "09 Finishes",
+ "csi-section": "09 65 00 Resilient Flooring",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2023-02-26T00:00:00Z",
+  "starts": "2020-02-26T06:22:44Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_151_Novalis_High_Density_Core_HDC_-6e2e740e-90fc-41c7-bcfb-de8f0a827ffd.pdf",
+  "version": "2.1.1"
+ },
+ "hpd-checksum": "72B32DED4D4C4991B22D1163300A0933",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2020-02-26T06:22:44Z",
+ "name": "Novalis High Density Core HDC",
+ "product-id": "10070",
+ "product-type": [
+  "Resilient Flooring"
+ ],
+ "sku": "novalis-high-density-core-hdc",
+ "subcategory": [
+  "Floor Coverings (Non-Carpet)"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Novalis High Density Core HDC/Novalis/2020-02-26"
+}
+{
+ "brand-name": "AVA",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "06 53 13"
+ ],
+ "csi-division": "06 Wood, Plastics, and Composites",
+ "csi-section": "06 53 13 Solid Plastic Decking",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2022-05-14T00:00:00Z",
+  "starts": "2021-11-04T06:41:18Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_151_Novalis_HPC-3610a280-822f-4f27-bddc-b79e2e3b49e9.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "94C35843AF38B8F795D661674095E159",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2021-11-04T06:41:18Z",
+ "name": "Novalis HPC",
+ "product-id": "7113",
+ "product-type": [
+  "Solid Plastic Decking"
+ ],
+ "sku": "novalis-hpc",
+ "subcategory": [
+  "Composite Decking and Paneling"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Novalis HPC/Novalis/2018-11-15"
+}
+{
+ "brand-name": "AVA",
+ "category": [
+  "Plumbing Systems"
+ ],
+ "csi": [
+  "22 07 19"
+ ],
+ "csi-division": "22 Plumbing",
+ "csi-section": "22 07 19 Plumbing Piping Insulation",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2022-05-13T00:00:00Z",
+  "starts": "2021-11-04T06:46:02Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_151_Novalis_LVT-4a3c278f-6c51-4593-b79d-b6b4eab511cc.pdf",
+  "version": "2.1.1"
+ },
+ "hpd-checksum": "D09EACFB6E1F991FB567DC26DA27BB7D",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2021-11-04T06:46:02Z",
+ "name": "Novalis LVT",
+ "product-id": "7106",
+ "sku": "novalis-lvt",
+ "subcategory": [
+  "Piping Insulation"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Novalis LVT/Novalis/2018-12-25"
+}
+{
+ "brand-name": "AVA",
+ "category": [
+  "Plumbing Systems"
+ ],
+ "csi": [
+  "22 07 19"
+ ],
+ "csi-division": "22 Plumbing",
+ "csi-section": "22 07 19 Plumbing Piping Insulation",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2021-11-13T00:00:00Z",
+  "starts": "2018-11-15T14:19:21Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_151_Novalis_NovaClic_LVT-b369e934-1e35-4fcd-815c-439b711eb2b7.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "AF4314510851711C2F1D91A4B26C77FE",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2018-11-15T14:19:21Z",
+ "name": "Novalis NovaClic LVT",
+ "product-id": "7107",
+ "sku": "novalis-novaclic-lvt",
+ "subcategory": [
+  "Piping Insulation"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Novalis NovaClic LVT/Novalis/2018-11-15"
+}
+{
+ "brand-name": "AVA",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "07 27 00"
+ ],
+ "csi-division": "07 Thermal and Moisture Protection",
+ "csi-section": "07 27 00 Air Barriers",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2022-05-13T00:00:00Z",
+  "starts": "2021-11-04T06:45:13Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_151_Novalis_NovaLay_LVT-eb7b6562-18f7-4e1a-9603-05c8bdf414f0.pdf",
+  "version": "2.1"
+ },
+ "hpd-checksum": "67A0C9C3F4F2CE4B94B1CFAECE097E0D",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2021-11-04T06:45:13Z",
+ "name": "Novalis NovaLay LVT",
+ "product-id": "7098",
+ "product-type": [
+  "Air Barriers"
+ ],
+ "sku": "novalis-novalay-lvt",
+ "subcategory": [
+  "Weather and Vapor Barriers"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Novalis NovaLay LVT/Novalis/2018-11-13"
+}
+{
+ "brand-name": "AVA",
+ "category": [
+  "Construction Materials"
+ ],
+ "csi": [
+  "06 53 13"
+ ],
+ "csi-division": "06 Wood, Plastics, and Composites",
+ "csi-section": "06 53 13 Solid Plastic Decking",
+ "disabled": false,
+ "hpd-certificate": {
+  "ends": "2022-06-25T00:00:00Z",
+  "id": "7472",
+  "starts": "2021-12-14T03:26:13Z",
+  "url": "https://ecomedes-library.s3.us-west-2.amazonaws.com/hpdc/hpdc-publish_151_Novalis_P_S_LVT-93368ca5-4b0c-41ca-b5d8-73667497d38e.pdf",
+  "version": "1.0"
+ },
+ "hpd-checksum": "CD16B376FE6E3C75C2947FA16CC3EA44",
+ "inventory-type": "Basic",
+ "LEEDv4": "No pre-checks completed or disclosed",
+ "modified-date": "2021-12-14T03:26:13Z",
+ "name": "Novalis P&S LVT",
+ "product-id": "7472",
+ "product-type": [
+  "Solid Plastic Decking"
+ ],
+ "sku": "novalis-p-s-lvt",
+ "subcategory": [
+  "Composite Decking and Paneling"
+ ],
+ "timestamp": "2022-12-09T00:00:00Z",
+ "title": "Novalis P&S LVT/Novalis/2018-12-25"
+}
